@@ -1,4 +1,4 @@
-# joaquin-sys-tech-
+# joaquin-sys-tech
 <h1 align="center">👋 ¡Hola! Soy Joaquín</h1>
 <h3 align="center">Estudiante de SMR · Creador de ShieldGuard · Próximamente ASIR</h3>
 
